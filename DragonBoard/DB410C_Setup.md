@@ -1,9 +1,7 @@
----
-title: "Setting up a DragonBoard 410C for Autonomous Drone Project"
-author: "Jonathan P. Ocón & Morgan L. Rogers"
-date: "2023-06-20"
-output: pdf_document
----
+
+# Setting up a DragonBoard 410C for Autonomous Drone Project
+Jonathan P. Ocón & Morgan L. Rogers
+Last Updated: June 20, 2023
 
 ## Introduction
 
