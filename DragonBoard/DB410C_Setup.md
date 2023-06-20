@@ -6,7 +6,7 @@ output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F)
 ```
 
 ## Introduction
@@ -46,7 +46,7 @@ Using a laptop or phone as a screen for the DragonBoard involves the use of VNC 
 
 A Bash script can be used to automate the process of setting up ArduPilot on the DragonBoard. Below is an example of such a script.
 
-```{bash}
+```{bash eval=FALSE}
 #!/bin/bash
 
 # Update the system
