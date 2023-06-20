@@ -39,7 +39,7 @@ Using a laptop or phone as a screen for the DragonBoard involves the use of VNC 
 
 ## Setting Up ArduPilot with Bash Script
 
-A Bash script can be used to automate the process of setting up ArduPilot on the DragonBoard. Below is an example of such a script.
+A [Bash script](https://github.com/jpocon/OSCARs_Drone/blob/master/DragonBoard/DB410C_Setup.sh) can be used to automate the process of setting up ArduPilot on the DragonBoard. Below is an example of such a script.
 
 ```{bash eval=FALSE}
 #!/bin/bash
