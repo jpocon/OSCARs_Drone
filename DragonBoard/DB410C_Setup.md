@@ -1,6 +1,7 @@
 
-# Setting up a DragonBoard 410C for Autonomous Drone Project
+# Setting up a DragonBoard 410C for Autonomous Drones
 Jonathan P. Ocón & Morgan L. Rogers
+
 Last Updated: June 20, 2023
 
 ## Introduction
