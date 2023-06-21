@@ -91,9 +91,7 @@ class ARController {
 
 Develop your app by writing Swift code to implement your app's functionality. This will include controlling the camera, processing images, handling user interaction, and managing data.
 
-### 8.
-
- Test the App
+### 8. Test the App
 
 Use the iPhone simulator in Xcode for initial testing. For testing camera and sensor functionality, you'll need to run the app on an actual iPhone device. Connect your device via USB and select it as the target in Xcode.
 
