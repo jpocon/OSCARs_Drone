@@ -19,7 +19,7 @@ Code repository for an Open Source, Cost-effective, and Autonomous Remote sensin
 
 Before you begin, you will need to load an OS (Debian Ubuntu) onto the DragonBoard 410C. 
 
-## [DragonBoard Setup](https://github.com/jpocon/OSCARs_Drone/Drone/DB410C_Setup.md/)
+## [DragonBoard Setup](https://github.com/jpocon/OSCARs_Drone/blob/master/Drone/DB410C_Setup.md)
 
 Once you have Ubuntu loaded onto the DragonBoard, we can download the necessary packages.
 
@@ -107,5 +107,5 @@ For more on testing, check out the [SITL guide](https://ardupilot.org/dev/docs/s
 
 This project also provides instructions for developing an iOS application that controls the camera and 3-D sensor (LiDAR Scanner) on an iPhone 12 or later.
 
-## [iOS App Guide](https://github.com/jpocon/OSCARs_Drone/Sensor/iOS_app.md/)
+## [iOS App Guide](https://github.com/jpocon/OSCARs_Drone/blob/master/Sensor/iOS_app.md)
 
